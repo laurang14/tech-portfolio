@@ -21,9 +21,7 @@ Navigate to Settings in your forked repo.
 
 ![Settings](assets/settings.png)
 
-In the Settings page, navigate to "Actions" and ensure “Enable local and third-party Actions for this repository” is enabled.
-
-![Actions](assets/actionspermissions.png)
+In the Settings page, navigate to "Actions" and ensure the choice selected enables actions.
 
 On the Settings page, navigate to "Options" and scroll to the bottom to the "GitHub Pages" section.
 
