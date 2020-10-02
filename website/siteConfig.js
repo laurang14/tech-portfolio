@@ -13,7 +13,7 @@ const users = [];
 
 const siteConfig = {
     title: 'Laura Ng', // Title for your website.
-    tagline: 'Software engineer @ Microsoft',
+    tagline: 'Software Engineer @ Microsoft, Cloud + AI, Commerce & Ecosystems',
     profilePhoto: 'img/profile.png',
     url: 'https://laurang14.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
@@ -48,7 +48,7 @@ const siteConfig = {
     },
 
     // This copyright info is used in /core/Footer.js and blog RSS/Atom feeds.
-    copyright: `Copyright © ${new Date().getFullYear()} Your Name Here`,
+    copyright: `Copyright © ${new Date().getFullYear()} Laura Ng`,
 
     highlight: {
         // Highlight.js theme to use for syntax highlighting in code blocks.
