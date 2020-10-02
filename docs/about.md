@@ -19,14 +19,16 @@ Write it in first (I) or third (Your Name Here) person.
 
 ## Current Role
 
-Grace Hopper Celebration Attendee
+I'm a Software Engineer II at Microsoft, working in the Cloud + AI, Commerce & Ecosystems team.
 
-## Recognition
-
-- 2020 Awesome Woman in Technology Award
+## I volunteer with...
+- United Way of King County
+- Habitat for Humanity
+- The Ocean Cleanup
+- various Zooniverse projects (https://www.zooniverse.org/)
 
 ## Social Media
 
-- Twitter
-- LinkedIn
-- GitHub
+- Twitter: https://twitter.com/laurasauropod
+- LinkedIn: https://www.linkedin.com/in/lauranng
+- GitHub: https://github.com/laurang14
